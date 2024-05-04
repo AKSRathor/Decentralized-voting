@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#headingHome{
+  text-align: center;
+}
+#homeSelection{
+  height: 80vh;
+}
+
+#showAddress{
+  
+  font-weight: 500;
+  padding: 1%;
+  background-color: #e7e7e7;
+  align-items: center;
+  display: flex;
+  height: 6vh;
+  width: 30%;
+  right: 0%;
+  position: absolute;
+  border-left: 7px solid #09e009;
+  top: 2%;
+}
+#home{
+  position: relative;
+}
+
+#homeSelection{
+  position: relative;
+}
